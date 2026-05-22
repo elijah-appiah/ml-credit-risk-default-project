@@ -145,8 +145,8 @@ figures/
 # Installation
 
 ```bash
-git clone https://github.com/yourusername/home-credit-default-risk.git
-cd home-credit-default-risk
+git clone https://github.com/elijah-appiah/ml-credit-risk-default-project.git
+cd ml-credit-risk-default-project
 ```
 
 ---
