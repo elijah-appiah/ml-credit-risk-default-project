@@ -124,6 +124,24 @@ home-credit-default-risk/
 
 ---
 
+The figures directory contains the following figures and tables.
+
+```bash
+figures/
+│
+├── missing_values_plot.png
+├── class_imbalance_plot.png
+├── correlation_heatmap.png
+├── model_performance_comparison.png
+├── roc_curve_comparison.png
+├── feature_importance.png
+├── shap_summary_plot.png
+├── confusion_matrix.png
+├── model_performance_table.csv
+└── feature_importance_table.csv
+```
+---
+
 # Installation
 
 ```bash
