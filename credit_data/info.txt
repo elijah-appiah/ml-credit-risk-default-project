@@ -1,0 +1,1 @@
+Please kindly download the data from Kaggle: https://www.kaggle.com/competitions/home-credit-default-risk/
