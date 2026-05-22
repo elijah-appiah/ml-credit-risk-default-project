@@ -124,7 +124,7 @@ home-credit-default-risk/
 
 ---
 
-The figures directory contains the following figures and tables.
+The **figures directory** contains the following figures and tables.
 
 ```bash
 figures/
