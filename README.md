@@ -23,3 +23,6 @@ The project demonstrates:
 - ROC-AUC evaluation
 - Feature importance analysis
 - Production-oriented architecture
+
+## Dataset
+https://www.kaggle.com/competitions/home-credit-default-risk/data
