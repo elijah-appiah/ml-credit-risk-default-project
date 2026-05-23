@@ -35,7 +35,7 @@ Dataset Source:
 
 https://www.kaggle.com/competitions/home-credit-default-risk
 
-Due to Kaggle competition restrictions, the dataset is not included in this repository.
+Due to Kaggle competition restrictions and privacy policy, the dataset is not included in this repository.
 
 Please download:
 - `application_train.csv`
