@@ -82,6 +82,8 @@ Performance evaluated using:
 - F1-Score
 - Confusion Matrix
 
+The figure below is the ROC curve comparing performance across the models.
+![Models Comparison](https://github.com/elijah-appiah/ml-credit-risk-default-project/blob/main/figures/roc_curve_comparison.png)
 ---
 
 # Model Performance
