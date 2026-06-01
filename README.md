@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-This project develops a machine learning framework for predicting borrower loan default risk using the Home Credit Default Risk dataset from Kaggle.
+This project develops a machine learning framework for predicting borrower loan default risk using the Home Credit Default Risk dataset obtained from Kaggle.
 
 The workflow combines:
 
